@@ -4,7 +4,7 @@
 let availableRations: number = 18;
 let remainingDays: number = 6;
 
-// Work out the rations per day.
+// Calculate the rations per day.
 let rationsPerDay: number = 0;
 
 console.log("=== RATIONING SYSTEM ===");
