@@ -2,8 +2,6 @@
 
 Here you'll find the solutions to every exercise and challenge in the *Programming Guide for a Zombie Apocalypse*.
 
-> 🚧 **Work in progress.** The book is being translated from Spanish, and the solutions are added here as each chapter is translated.
-
 ## Before you look at a solution
 
 Try each exercise first, even if you get stuck. If you've fought with it for a while and it still won't work, look at the solution, close it, and write the code again yourself from scratch.

@@ -2,8 +2,6 @@
 
 Companion resources for the **Programming Guide for a Zombie Apocalypse**, a book that teaches programming with TypeScript from scratch, set during a zombie apocalypse. This is the extra material that goes with the book.
 
-> 🚧 **Work in progress.** The book is being translated from Spanish, and the solutions are added here as each chapter is translated.
-
 ## Exercise solutions
 
 The solutions to every exercise and challenge in the book, organized by block:
