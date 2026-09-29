@@ -1,0 +1,25 @@
+{
+  "name": "developer-survivor-guide-en-resources",
+  "version": "1.0.0",
+  "description": "Solutions to the exercises and challenges in the Programming Guide for a Zombie Apocalypse",
+  "type": "module",
+  "scripts": {
+    "start": "tsx exercise-runner.ts",
+    "check": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafs/developer-survivor-guide-en-resources.git"
+  },
+  "author": "José Antonio Fuentes Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jafs/developer-survivor-guide-en-resources/issues"
+  },
+  "homepage": "https://github.com/jafs/developer-survivor-guide-en-resources#readme",
+  "devDependencies": {
+    "@types/node": "22.20.2",
+    "tsx": "4.23.13",
+    "typescript": "5.9.2"
+  }
+}

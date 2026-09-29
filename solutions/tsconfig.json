@@ -1,0 +1,14 @@
+{
+  // Strict mode, like the one Deno uses by default and the one in the book.
+  "compilerOptions": {
+    "target": "es2024",
+    "module": "nodenext",
+    "moduleDetection": "force",
+    "types": ["node"],
+    "strict": true,
+    // Deno also requires "override" by default (chapter 14).
+    "noImplicitOverride": true,
+    "noEmit": true,
+    "skipLibCheck": true
+  }
+}
